@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e2370"],{"7e6b":function(e,n,a){"use strict";a.r(n);var t,l,d=a("0dfe"),c=a("6512"),i={name:"Calendar",metaInfo:{title:"Календарь"},extends:d["a"],mixins:[Object(c["a"])(["calendar"])],props:{id:{type:String,default:"calendar"}}},p=i,r=a("2877"),s=Object(r["a"])(p,t,l,!1,null,null,null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0e2370.f9ab38ac.js.map
